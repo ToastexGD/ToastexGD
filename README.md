@@ -4,6 +4,8 @@
 - 💞️ I’m looking to collaborate on Geometry Dash Projects 
 - 📫 How to reach me toastexgdm@gmail.com!
 
+Official developer of ToastyReplay, if you would like to contact me regarding contributing or bugfixing message me on Discord. Thanks!
+
 <!---
 ToastexGD/ToastexGD is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
