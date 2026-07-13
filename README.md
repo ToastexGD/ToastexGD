@@ -12,13 +12,13 @@ Geometry Dash modder. c++ enjoyer. Bot enthusiast :sob:
 sudo apt install opsec
 ```
 
-## // who's this chud
+## who's this chud
 
 I'm Toastt. I build mods for Geometry Dash for Geode. Mostly in C++. My main project is a replay bot built for showcasers who need their runs to be frame-perfect. Everything else I make has been just silly little projects on the side :3
 
 Lots of experience in multiple fields, placed 1st overall in Cybersecurity and Research at my school, and 2d in developmental Engineering contests respectively.
 
-## // What im building
+## What im building
 
 <table>
 <tr>
